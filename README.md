@@ -35,7 +35,7 @@ Add the following to your `pubspec.yaml`:
 ```yaml
 dependencies:
   git:
-    url: https://github.com/chebizarrp/nip44.git
+    url: https://github.com/chebizarrp/dart-nip44.git
     ref: master
 
 ```
