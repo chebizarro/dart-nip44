@@ -9,7 +9,7 @@ environment:
 # Add regular dependencies here.
 dependencies:
   elliptic: ^0.3.11
-  cryptography: ^2.7.0
+  cryptography_plus: ^2.7.1
   collection: ^1.19.1
   crypto: ^3.0.5
 
